@@ -19,27 +19,28 @@ export default function Home() {
   return (
     <div className="space-y-10" >
             <JsonLd
-        data={{
-          "@context": "https://schema.org",
-          "@graph": [
-            {
-              "@type": "Organization",
-              "@id": "https://YOURDOMAIN.COM/#organization",
-              name: "BoostUP",
-              url: "https://YOURDOMAIN.COM",
-              logo: "https://YOURDOMAIN.COM/brand/boostup-logo2.png",
-            },
-            {
-              "@type": "WebSite",
-              "@id": "https://YOURDOMAIN.COM/#website",
-              url: "https://YOURDOMAIN.COM",
-              name: "BoostUP",
-              publisher: { "@id": "https://YOURDOMAIN.COM/#organization" },
-              inLanguage: "en",
-            },
-          ],
-        }}
-      />
+  data={{
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "Organization",
+        "@id": "https://www.boostupfn.com/#organization",
+        name: "BoostUP",
+        url: "https://www.boostupfn.com",
+        logo: "https://www.boostupfn.com/brand/boostup-logo4.png",
+      },
+      {
+        "@type": "WebSite",
+        "@id": "https://www.boostupfn.com/#website",
+        url: "https://www.boostupfn.com",
+        name: "BoostUP",
+        publisher: { "@id": "https://www.boostupfn.com/#organization" },
+        inLanguage: "en",
+      },
+    ],
+  }}
+/>
+
 
       {/* ✅ HERO (premium 2-column) */}
       <section className="relative isolate overflow-hidden rounded-3xl border border-white/10 bg-white/5 p-8">

@@ -76,7 +76,7 @@ export default async function ProductPage({
   const product = PRODUCTS.find((p) => p.slug === slug);
   if (!product) return notFound();
 
-    const baseUrl = "https://YOURDOMAIN.COM"; // domain gelince değiştir
+    const baseUrl = "https://www.boostupfn.com"; // domain gelince değiştir
   const url = `${baseUrl}/fortnite/${product.slug}`;
 
   const productJsonLd = {

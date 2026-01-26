@@ -11,12 +11,12 @@ const inter = Inter({
 export const metadata = {
   title: "BoostUP — Fortnite Boosting and Coaching Services",
   description: "Secure Fortnite boosting, cheap V-Bucks, and coaching with fast delivery and 24/7 Discord support.",
-  metadataBase: new URL("https://YOURDOMAIN.COM"), // ← domain gelince burayı değiştir
+  metadataBase: new URL("https://www.boostupfn.com"), // ← domain gelince burayı değiştir
   openGraph: {
     title: "BoostUP — Fortnite Boosting and Coaching Services",
     description:
       "Secure Fortnite boosting, cheap V-Bucks, and coaching with fast delivery and 24/7 Discord support.",
-    url: "https://YOURDOMAIN.COM",
+    url: "https://www.boostupfn.com",
     siteName: "BoostUP",
     images: [
       {
