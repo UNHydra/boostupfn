@@ -70,7 +70,7 @@ export default function Home() {
             <div className="mt-5 flex flex-wrap items-center gap-2">
               <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
                 ⭐ 4.9 Rating
-                <span className="text-white/50 font-semibold">(1400+)</span>
+                <span className="text-white/50 font-semibold">(2500+)</span>
               </span>
 
               <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
@@ -78,7 +78,7 @@ export default function Home() {
               </span>
 
               <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
-                🔒 Account-safe process
+                🔒 Account-safety process
               </span>
 
               <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
@@ -126,7 +126,7 @@ export default function Home() {
             </div>
 
             <div className="absolute -bottom-3 left-4 inline-flex items-center gap-2 rounded-full border border-white/10 bg-black/50 px-3 py-1 text-xs font-bold text-white/80 backdrop-blur">
-              ⚡ Fast • 🔒 Safe • 💬 Support
+              ⚡ Fast • 🔒 Safety • 💬 Support
             </div>
           </div>
         </div>
@@ -151,7 +151,7 @@ export default function Home() {
         <div className="mt-6 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
           <div className="rounded-2xl border border-white/10 bg-black/30 p-5">
             <div className="text-lg">🛡️</div>
-            <div className="mt-2 font-bold">Account Safe</div>
+            <div className="mt-2 font-bold">Account Safety</div>
             <p className="mt-1 text-sm text-white/60">
               Offline play, no bans, no risky methods.
             </p>
@@ -161,7 +161,7 @@ export default function Home() {
             <div className="text-lg">⚡</div>
             <div className="mt-2 font-bold">Fast Delivery</div>
             <p className="mt-1 text-sm text-white/60">
-              Average completion time: 1–3 hours.
+              Average completion time: 1–24 hours.
             </p>
           </div>
 

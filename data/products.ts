@@ -12,14 +12,14 @@ export const PRODUCTS: Product[] = [
   platforms: ["PC", "PS", "XBOX"],
   description: [
     "Select your current level and target level.",
-    "Safe method and fast completion.",
+    "Safety method and fast completion.",
     "Live support included.",
   ],
   variants: [
-    { id: "lvl-10", label: "10 Levels", amount: 10, price: 9, msrp: 15, deliveryTime: "1-3 hours", deliveryMethod: "Account Login" },
-    { id: "lvl-25", label: "25 Levels", amount: 25, price: 19, msrp: 30, deliveryTime: "2-6 hours", deliveryMethod: "Account Login" },
-    { id: "lvl-50", label: "50 Levels", amount: 50, price: 35, msrp: 60, deliveryTime: "6-12 hours", deliveryMethod: "Account Login" },
-    { id: "lvl-100", label: "100 Levels", amount: 100, price: 65, msrp: 120, deliveryTime: "12-24 hours", deliveryMethod: "Account Login" },
+    { id: "lvl-10", label: "10 Levels", amount: 10, price: 9, msrp: 15, deliveryTime: "1-3 days", deliveryMethod: "Account Login" },
+    { id: "lvl-25", label: "25 Levels", amount: 25, price: 19, msrp: 30, deliveryTime: "2-6 days", deliveryMethod: "Account Login" },
+    { id: "lvl-50", label: "50 Levels", amount: 50, price: 35, msrp: 60, deliveryTime: "2-10 days", deliveryMethod: "Account Login" },
+    { id: "lvl-100", label: "100 Levels", amount: 100, price: 65, msrp: 120, deliveryTime: "5-10 days", deliveryMethod: "Account Login" },
   ],
 },
 {

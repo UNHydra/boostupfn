@@ -21,7 +21,7 @@ export default function Footer() {
               ✅ Money-back guarantee
             </span>
             <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
-              🔒 Account-safe process
+              🔒 Account-safety process
             </span>
             <span className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-xs font-bold text-white/80">
               ⚡ Fast delivery

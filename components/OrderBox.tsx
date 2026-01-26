@@ -566,7 +566,7 @@ export default function OrderBox({
               ✅ Guaranteed service
             </span>
             <span className="rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-[11px] font-bold text-white/80">
-              🔒 Safe method
+              🔒 Safety method
             </span>
             <span className="rounded-full border border-white/10 bg-white/[0.06] px-3 py-1 text-[11px] font-bold text-white/80">
               ⚡ Fast start
