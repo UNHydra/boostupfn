@@ -1,7 +1,7 @@
 import type { MetadataRoute } from "next";
 import { PRODUCTS } from "@/data/products";
 
-const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://boostupfn.com";
+const SITE_URL = process.env.NEXT_PUBLIC_SITE_URL || "https://www.boostupfn.com";
 
 export default function sitemap(): MetadataRoute.Sitemap {
   const now = new Date();
