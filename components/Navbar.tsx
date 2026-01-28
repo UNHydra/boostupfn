@@ -93,6 +93,8 @@ export default function Navbar() {
           <NavItem href="/fortnite/ranked-boost" label="Ranked Boost" />
           <NavItem href="/fortnite/level-boost" label="Level Boost" />
           <NavItem href="/fortnite/win-boost" label="Win Boost" />
+          <NavItem href="/faq" label="FAQ" />
+
         </nav>
 
         {/* ✅ Right CTA (premium purple pill like örnek) */}
